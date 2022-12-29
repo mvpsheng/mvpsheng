@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 你好，我叫郭旭升. 👋
+我主要擅长Java后端开发相关的技术。
+我最近正在做TODOList的项目， 有兴趣一起合作欢迎联系我或者直接issue！
+这是我的博客地址： https://mvpsheng.github.io/
 <!--
 **mvpsheng/mvpsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
