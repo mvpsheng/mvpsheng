@@ -7,11 +7,15 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
     4. Familiar with the development techs：Spring、SpringBoot、MyBatis、MyBatisPlus、MySQL、Redis、Linux、Docker。
 
 Learning new Techs in 2023:
-Distributed：Zookeeper、Dubbo；
-NoSQL：MongoDB；
-Devops：K8S、CI/CD；
+
+Distributed: Zookeeper、Dubbo;
+
+NoSQL: MongoDB;
+
+Devops: K8S、CI/CD;
 
 I am currently working on the todoList project, welcome to issue！
+
 Project URL： https://github.com/mvpsheng/everyday-todoList
 
 My Blog： https://mvpsheng.github.io/
