@@ -1,23 +1,22 @@
-### 你好，我叫郭旭升. 👋
-我主要擅长Java后端开发的技术。
+### Hello, my name is Guo Xusheng. 👋
+I am familiar with Java Backend Development.And my proficiency is listed blow:
 
-    1. 扎实的Java语言能力，对于语言基础类库(常用类、集合、线程相关)深入阅读过源码。
-    2. 计算机专业知识掌握良好：计网、操作系统、数据结构与算法、软件工程。
-    3. 熟悉常用开发平台IDEA、Maven、Git。
-    4. 熟练使用开发技术：Spring、SpringBoot、MyBatis、MyBatisPlus、MySQL、Redis、Linux、Docker。
+    1. Familar with Java，have read the source code in depth for language basic class libraries (commonly used classes, collections, thread related)。
+    2. Solid Computer Science fundimental knowledge：Computer Networks、Operating system、Datastructure and Algorithms、Software Engineering。
+    3. Failiar with the development platform : IDEA、Maven、Git。
+    4. Familiar with the development techs：Spring、SpringBoot、MyBatis、MyBatisPlus、MySQL、Redis、Linux、Docker。
 
-2023年想要掌握的技术:
-分布式：Zookeeper、Dubbo；
+Learning new Techs in 2023:
+Distributed：Zookeeper、Dubbo；
 NoSQL：MongoDB；
 Devops：K8S、CI/CD；
 
-我最近正在做ToDoList的项目， 有兴趣一起合作欢迎联系我或者直接issue！
+I am currently working on the todoList project, welcome to issue！
+Project URL： https://github.com/mvpsheng/everyday-todoList
 
-项目地址： https://github.com/mvpsheng/everyday-todoList
+My Blog： https://mvpsheng.github.io/
 
-这是我的博客地址： https://mvpsheng.github.io/
-
-这是我的个人主页： https://mvpsheng.github.io/guoxusheng/
+My Portfolio： https://mvpsheng.github.io/guoxusheng/
 <!--
 **mvpsheng/mvpsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
