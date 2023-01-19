@@ -23,7 +23,6 @@ My Blog： https://mvpsheng.github.io/
 My Portfolio： https://mvpsheng.github.io/guoxusheng/
 
 ### My GitHub Contributions
-
 ![](https://raw.githubusercontent.com/mvpsheng/mvpsheng/main/assets/github-contribution-grid-snake.svg)
 
 <!--
