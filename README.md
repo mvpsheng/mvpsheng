@@ -22,10 +22,10 @@ My Blog： https://mvpsheng.github.io/
 
 My Portfolio： https://mvpsheng.github.io/guoxusheng/
 
-### My GitHub Contributions
+<!-- ### My GitHub Contributions
 
 ![](https://raw.githubusercontent.com/mvpsheng/mvpsheng/main/assets/github-contribution-grid-snake.svg)
-
+ -->
 <!--
 **mvpsheng/mvpsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
