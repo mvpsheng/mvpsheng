@@ -8,18 +8,31 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
 
 ## techs i use：
 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<p align="center">
+    
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=cdd148&style=plastic&logo=mysql"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Spring&color=4a935c&style=plastic&logo=spring"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Redis&color=cbb148&style=plastic&logo=redis"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> 
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+</p>
+
 
 ## Learning new Techs in 2023:
 
-Distributed: Zookeeper、Dubbo;
-
-NoSQL: MongoDB;
-
-Devops: K8S、CI/CD;
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=ZOOKEEPER&color=23555f&style=plastic&logo=zookeeper"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=DUBBO&color=285f65&style=plastic&logo=Dubbo"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Mongo-DB&color=3c7f5d&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=Kubernetes&color=4a935c&style=plastic&logo=kubernetes"/>
+</p>
 
 ## More about me
 
