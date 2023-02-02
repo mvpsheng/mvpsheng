@@ -9,7 +9,6 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
 ## techs i use：
 
 <p align="center">
-    
     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=cdd148&style=plastic&logo=mysql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Spring&color=4a935c&style=plastic&logo=spring"/>
@@ -17,7 +16,7 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/> 
+    <img src="https://img.shields.io/static/v1?label=|&message=Docker&color=cdf998&style=plastic&logo=docker"/> 
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
