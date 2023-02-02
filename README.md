@@ -1,4 +1,4 @@
-### Hello, my name is Guo Xusheng. 👋
+## Hello, my name is Guo Xusheng. 👋
 I am familiar with Java Backend Development.And my proficiency is listed blow:
 
     1. Familar with Java，have read the source code in depth for language basic class libraries (commonly used classes, collections, thread related)。
@@ -6,7 +6,14 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
     3. Failiar with the development platform : IDEA、Maven、Git。
     4. Familiar with the development techs：Spring、SpringBoot、MyBatis、MyBatisPlus、MySQL、Redis、Linux、Docker。
 
-Learning new Techs in 2023:
+## techs i use：
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+
+## Learning new Techs in 2023:
 
 Distributed: Zookeeper、Dubbo;
 
@@ -14,9 +21,7 @@ NoSQL: MongoDB;
 
 Devops: K8S、CI/CD;
 
-I am currently working on the todoList project, welcome to issue！
-
-Project URL： https://github.com/mvpsheng/everyday-todoList
+## More about me
 
 My Blog： https://mvpsheng.github.io/
 
