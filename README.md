@@ -6,7 +6,7 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
     3. Failiar with the development platform : IDEA、Maven、Git。
     4. Familiar with the development techs：Spring、SpringBoot、MyBatis、MyBatisPlus、MySQL、Redis、Linux、Docker。
 
-## techs i use：
+## Techs i use：
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
@@ -33,6 +33,7 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
     <img src="https://img.shields.io/static/v1?label=|&message=Mongo-DB&color=3c7f5d&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Kubernetes&color=4a935c&style=plastic&logo=kubernetes"/>
 </p>
+
 ## Languages
 <p align="left">
 <a href="https://github.com/mvpsheng">
