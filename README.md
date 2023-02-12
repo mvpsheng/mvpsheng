@@ -33,6 +33,13 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
     <img src="https://img.shields.io/static/v1?label=|&message=Mongo-DB&color=3c7f5d&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Kubernetes&color=4a935c&style=plastic&logo=kubernetes"/>
 </p>
+## Languages
+<p align="left">
+<a href="https://github.com/mvpsheng">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvpsheng&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvpsheng&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 ## More about me
 
