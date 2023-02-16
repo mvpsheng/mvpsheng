@@ -29,6 +29,7 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
 ## Learning new Techs in 2023:
 
 <p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=GOLONG&color=cdf998&style=plastic&logo=go"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ZOOKEEPER&color=23555f&style=plastic&logo=zookeeper"/>
     <img src="https://img.shields.io/static/v1?label=|&message=DUBBO&color=285f65&style=plastic&logo=Dubbo"/>
     <img src="https://img.shields.io/static/v1?label=|&message=Mongo-DB&color=3c7f5d&style=plastic&logo=mongodb"/>
