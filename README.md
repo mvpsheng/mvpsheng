@@ -22,7 +22,7 @@ I am familiar with Java Backend Development.And my proficiency is listed blow:
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=NODEJS&color=3c7f5d&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=VUE.JS&color=4a935c&style=plastic&logo=vue"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=VUE.JS&color=4a935c&style=plastic&logo=vue.js"/>
 </p>
 
 
