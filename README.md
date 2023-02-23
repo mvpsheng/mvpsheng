@@ -1,10 +1,10 @@
 ## Hello, my name is Guo Xusheng. 👋
-I am familiar with Java Backend Development.And my proficiency is listed blow:
 
-    1. Familar with Java，have read the source code in depth for language basic class libraries (commonly used classes, collections, thread related)。
-    2. Solid Computer Science fundimental knowledge：Computer Networks、Operating system、Datastructure and Algorithms、Software Engineering。
-    3. Failiar with the development platform : IDEA、Maven、Git。
-    4. Familiar with the development techs：Spring、SpringBoot、MyBatis、MyBatisPlus、MySQL、Redis、Linux、Docker。
+* Frontend: HTML/DOM 、CSS、JavaScript、Node.js、Vue.js、React.js
+* Backend: Java、Python、SpringBoot、Flask、Express.js
+* Database: MySQL、MongoDB、Redis
+* Tools and Techs：IntelliJ Idea、VS Code、Git、Maven、GitHub、Rest API、Docker
+* Fundimentals：Computer Networks、Operating system、Datastructure and Algorithms、Software Engineering。
 
 ## Techs i use：
 
