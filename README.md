@@ -1,10 +1,10 @@
 ## Hello, my name is Guo Xusheng. 👋
-
+## SkillSet
 * Frontend: HTML/DOM 、CSS、JavaScript、Node.js、Vue.js、React.js
 * Backend: Java、Python、SpringBoot、Flask、Express.js
 * Database: MySQL、MongoDB、Redis
 * Tools and Techs：IntelliJ Idea、VS Code、Git、Maven、GitHub、Rest API、Docker
-* Fundimentals：Computer Networks、Operating system、Datastructure and Algorithms、Software Engineering。
+* Fundimentals：Computer Networks、Operating system、Datastructure and Algorithms、Software Engineering
 
 ## Techs i use：
 
