@@ -47,9 +47,9 @@
 
 ## More about me
 
-My Blog： https://mvpsheng.github.io/
+Blog： https://mvpsheng.github.io/
 
-My Portfolio： https://mvpsheng.github.io/guoxusheng/
+Portfolio： https://mvpsheng.github.io/guoxusheng/
 
 <!-- ### My GitHub Contributions
 
