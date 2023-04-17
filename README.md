@@ -37,13 +37,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=THREE.JS&color=4a935c&style=plastic&logo=three.js"/>
 </p>
 
-## Languages
+<!-- ## Languages
 <p align="left">
 <a href="https://github.com/mvpsheng">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvpsheng&layout=compact&langs_count=10&theme=buefy"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvpsheng&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
-</p>
+</p> -->
 
 ## More about me
 
